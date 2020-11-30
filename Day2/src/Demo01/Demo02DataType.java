@@ -44,7 +44,6 @@ public class Demo02DataType {
         char zifu2 = 'b';
         System.out.println(zifu1 + zifu2);
 
-        
 
         byte num4 = 40;
         byte num5 = 50;
